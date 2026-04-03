@@ -1,0 +1,52 @@
+[
+  {
+    "id": "scp-002",
+    "title": "SCP-002",
+    "objectClass": "Euclid",
+    "summary": "A fleshy anomalous object with an apartment-like interior that appears to transform living humans into furniture.",
+    "containment": "SCP-002 must remain connected to a power supply at all times and kept in a recharging state. In a power failure, the area must be sealed and evacuated until power is restored. The containment area must stay under negative air pressure. At least two personnel must be present near the containment area, and no one below Level 3 may enter without special written authorization and escort procedures.",
+    "description": "SCP-002 appears as a tumorous fleshy mass of about 60 cubic meters. An iron hatch leads to an interior that resembles a small low-rent apartment. Inside are furnishings made from human biological material such as bone, hair, and other substances. The object has been associated with disappearances and appears to convert living humans into furnishings.",
+    "reference": "SCP-002 was discovered in northern Portugal after impacting the Earth. Early testing and transport caused multiple disappearances, and the object was later brought into Foundation containment under strict security.",
+    "image": "/images/800px-SCP002.jpg"
+  },
+  {
+    "id": "scp-003",
+    "title": "SCP-003",
+    "objectClass": "Euclid",
+    "summary": "A two-part anomaly consisting of a living biological motherboard and a rune-covered stone tablet that restrains its growth.",
+    "containment": "SCP-003 must be kept at a temperature above 35 degrees Celsius, with temperatures above 100 degrees preferred. No complex living organisms are to come into contact with it. The containment area must be monitored carefully, because lower temperatures allow SCP-003-1 to grow rapidly and dangerously.",
+    "description": "SCP-003 consists of two linked parts. SCP-003-1 resembles a biological circuit board made of chitin, hair, and nails and can react aggressively under poor containment conditions. SCP-003-2 is a stone tablet carved with runes and emits unusual radiation and effects that limit SCP-003-1's activity. Together they form a dangerous and unusual containment challenge.",
+    "reference": "The anomaly becomes more dangerous when not properly heated, and SCP-003-1 can expand in response to environmental change or contact with organic material.",
+    "image": ""
+  },
+  {
+    "id": "scp-004",
+    "title": "SCP-004",
+    "objectClass": "Euclid",
+    "summary": "A heavy barn door connected to anomalous spaces and activated by twelve rusted keys, most of which are extremely dangerous.",
+    "containment": "All keys must be kept under high security and handled only by authorized personnel. Removal or testing must follow strict clearance procedures. SCP-004 and its keys are monitored because improper use can cause severe bodily harm, disappearance, or access to abnormal dimensions.",
+    "description": "SCP-004 is an old barn door that becomes anomalous when opened with one of twelve keys known as SCP-004-1 through SCP-004-12. Most keys lead to deadly or unpredictable spatial effects, including tearing subjects apart or losing them in unknown locations. SCP-004-7 is considered the primary safe key and gives access to a hidden Foundation area beyond the door.",
+    "reference": "The object was discovered in 1949 and later became linked to Site-62. It shows strong space-time anomalies and remains one of the Foundation's most carefully controlled gateway-type objects.",
+    "image": "/images/SCP004_door.jpg"
+  },
+  {
+    "id": "scp-005",
+    "title": "SCP-005",
+    "objectClass": "Safe",
+    "summary": "An ornate key that can open nearly any kind of lock, including mechanical and digital locking systems.",
+    "containment": "SCP-005 does not pose direct physical danger, but access is tightly restricted. Removal from containment requires approval from at least one Level 4 personnel. Any authorized use must be supervised, and the key may not be used for casual or personal purposes.",
+    "description": "SCP-005 looks like an ordinary mass-produced key from the 1920s, but it has the anomalous ability to unlock almost any locking mechanism. Testing suggests it may fail when the user cannot recognize a disguised mechanism as a lock, which has led to speculation that the object may have a limited sentient quality.",
+    "reference": "SCP-005 was discovered after a civilian used it to enter a high-security facility. It is sometimes used under supervision as a substitute for lost access devices, but misuse is strictly forbidden.",
+    "image": "/images/SCP-005.jpg"
+  },
+  {
+    "id": "scp-006",
+    "title": "SCP-006",
+    "objectClass": "Safe",
+    "summary": "A small spring that produces water with powerful healing, regenerative, and immune-enhancing effects.",
+    "containment": "SCP-006 is kept secret rather than heavily contained. Personnel interacting with it must wear specialized protective suits and operate under extreme surveillance. Any extraction of liquid requires approval from three O5 personnel, and accidental contact is treated as a critical containment issue.",
+    "description": "SCP-006 is a small spring located west of Astrakhan and concealed beneath the cover of a chemical factory. Although the water appears chemically normal, it has extraordinary effects on living organisms, including tissue repair, DNA regeneration, enhanced cell duplication, and major immune system improvement.",
+    "reference": "Foundation awareness of SCP-006 dates back to the 19th century, but secure control was not established until 1991. The liquid has shown especially strong beneficial effects in humans and higher primates.",
+    "image": ""
+  }
+]
